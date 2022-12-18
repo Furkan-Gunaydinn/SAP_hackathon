@@ -18,7 +18,7 @@
 * IntelliJ IDE
 
 ## Projeye Nasıl Çalıştırılır ?
-* Projeyi bu adresten indirmeniz gerekiyor :[proje linki]()
+* Projeyi bu adresten indirmeniz gerekiyor :[proje linki](https://github.com/Furkan-Gunaydinn/SAP_hackathon)
 * Projeyi zipten çıkarın.
 
 ### IDE Gerekmeden Çalıştırmak İçin:
